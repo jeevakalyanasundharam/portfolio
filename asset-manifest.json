@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jeevakalyanasundharam/portfolio/static/css/main.87d5064c.css",
+    "main.js": "/jeevakalyanasundharam/portfolio/static/js/main.d68ef4e8.js",
+    "index.html": "/jeevakalyanasundharam/portfolio/index.html",
+    "main.87d5064c.css.map": "/jeevakalyanasundharam/portfolio/static/css/main.87d5064c.css.map",
+    "main.d68ef4e8.js.map": "/jeevakalyanasundharam/portfolio/static/js/main.d68ef4e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87d5064c.css",
+    "static/js/main.d68ef4e8.js"
+  ]
+}
